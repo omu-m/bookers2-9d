@@ -1,0 +1,2 @@
+class AddCategoryToBook < ApplicationRecord
+end
